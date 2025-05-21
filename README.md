@@ -16,7 +16,7 @@
 
 ## 🛠️ Skills
 
-- **Programming:** Python, HTML, CSS
+- **Programming:** Python, HTML, CSS and fast learner.
 - **Leadership:** Team lead in school projects and hackathons
 - **Creative Pursuits:** Book reading, poetry, photography, travelling
 
