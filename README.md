@@ -3,7 +3,7 @@
 ## 🌟 About Me
 
 - 🎓 Student | Hackathon Winner | School Topper
-- 🐍 Python, HTML & CSS Enthusiast
+- 🐍 Python, HTML & CSS learning 
 - 🧠 Developed a **Seizure Attack Detector**, **Chatbot**,
 - 💡 Passionate about leadership and innovation
 - 🧱 Member Of **Bureau of Indian standards**
