@@ -8,7 +8,7 @@
 - 💡 Passionate about leadership and innovation
 - 🧱 Member Of **Bureau of Indian standards**
 
-## 🚀 Achievements
+## 🚀 Achievements(very low 🥲)
 
 - 🏆 Winner at Delhi Hackathon by Hackclub
 - 📈 Consistently among the top performers at school
@@ -16,9 +16,9 @@
 
 ## 🛠️ Skills
 
-- **Programming:** Python, HTML, CSS and fast learner.
+- **Programming:** Vibecoding (cuz i am learning programming 😭).
 - **Leadership:** Team lead in school projects and hackathons
-- **Creative Pursuits:** Book reading, poetry, photography, travelling
+- **Creative Pursuits:** Book reading, poetry, photography, travelling,Art.
 
 ## 🌱 Hobbies & Interests
 
@@ -26,11 +26,14 @@
 - 📸 Capturing moments through photography
 - 🌍 Exploring new places and cultures
 - 👨‍💻 Coding innovative solutions
+- 📖 Storytelling ( i can give you asmr)
 
 ## ✨ Let's Connect!
+
+Want to learn more from all the people 😭😭
 
 > "Creativity is intelligence having fun!" — I believe in combining logic with imagination to make the world a better place.
 
 ---
 
-Feel free to reach out for collaborations, projects, or just a friendly chat about tech, books, or travel!>
+Feel free to reach out for collaborations, projects, or just a friendly chat about tech, books, Philosophy or life!>
